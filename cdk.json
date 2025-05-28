@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/pl-cicd-gitlab-fchavez.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/ip-wg-cicd.ts",
   "watch": {
     "include": [
       "**"

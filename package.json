@@ -1,8 +1,8 @@
 {
-  "name": "pl-cicd-gitlab-fchavez",
+  "name": "ip-wg-cicd",
   "version": "0.1.0",
   "bin": {
-    "pl-cicd-gitlab-fchavez": "bin/pl-cicd-gitlab-fchavez.js"
+    "ip-wg-cicd": "bin/ip-wg-cicd.js"
   },
   "scripts": {
     "build": "tsc",
